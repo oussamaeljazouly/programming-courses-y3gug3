@@ -1,0 +1,14 @@
+//######################################################################
+//###########################           SSTech       ###################
+//###########################   Programming Courses  ###################
+//################################################################
+let aiza1: number;
+let aiza2: number;
+let aiza3: number;
+let aiza4: nuember;
+aiza1 = 10;
+aiza2 = 20;
+aiza3 = 30;
+aiza4 = 40;
+console.log(aiza1 + aiza2 + aiza3 + aiza4);
+console.log('alore la some et 80');
